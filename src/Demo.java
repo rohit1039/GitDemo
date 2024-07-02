@@ -28,6 +28,8 @@ public class Demo {
                     arr[j] = temp;
                 }
             }
+
+            System.out.println();
         }
 
         System.out.println(Arrays.toString(arr));
