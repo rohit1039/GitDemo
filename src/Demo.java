@@ -29,7 +29,7 @@ public class Demo {
                 }
             }
 
-            System.out.println();
+            System.out.println("Merge Conflict!");
         }
 
         System.out.println(Arrays.toString(arr));
